@@ -22,14 +22,14 @@ The challenge includes two primary tasks:
 - **Evaluation**: BLEU, ROGUE, CIDEr
 
 ## Repository Structure
-- `task 1/` - Folder containing files for Behavior Simulation.
-- `task 2/` - Folder containing files for Content Simulation.
+- `Behavior_Simulation_Challenge_Adobe_Task1/` - Folder containing files for Behavior Simulation.
+- `Behavior_Simulation_Challenge_Adobe_Task1/` - Folder containing files for Content Simulation.
 
 ### Installation
 Clone the repository:
    ```bash
-   git clone https://github.com/him-a-n-shu/adobe-behavior-simulation.git
-   cd adobe-behavior-simulation
+   git clone https://github.com/Barghav777/Behavior-Simulation-Challenge-Adobe.git
+   cd Behavior-Simulation-Challenge-Adobe
 ```
 
 ## Team
