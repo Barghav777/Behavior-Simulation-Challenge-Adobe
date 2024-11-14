@@ -22,8 +22,8 @@ The challenge includes two primary tasks:
 - **Evaluation**: BLEU, ROGUE, CIDEr
 
 ## Repository Structure
-- `Behavior_Simulation_Challenge_Adobe_Task1/` - Folder containing files for Behavior Simulation.
-- `Behavior_Simulation_Challenge_Adobe_Task1/` - Folder containing files for Content Simulation.
+- `Behaviour_Simulation_Challenge_Task1/` - Folder containing files for Behavior Simulation.
+- `Behavior_Simulation_Challenge_Adobe_Task2/` - Folder containing files for Content Simulation.
 
 ### Installation
 Clone the repository:
